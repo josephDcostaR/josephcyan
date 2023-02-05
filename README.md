@@ -1,4 +1,4 @@
-### Hi there 👋, Im Joseph
+### Olá Bem-Vimdo 👋, eu sou o Joseph
 
 <!--
 **josephcyan/josephcyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
